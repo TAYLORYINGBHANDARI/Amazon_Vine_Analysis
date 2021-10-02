@@ -4,7 +4,9 @@
 
 ## Resources
 
-- Data Source: [https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt] (Amazon Review datasets), [https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz] (Video Games Review dataset)
+- Data Source: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt),
+               [Video Games Review dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
+
 
 - Language & Software: Google Colab Notebook,PySpark, PostgreSQL 12.6, pgAdmin 4, AWS RDS
 
