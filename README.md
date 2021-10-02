@@ -31,12 +31,14 @@ By the end,use PySpark, Pandas, or SQL to determine if there is any bias toward 
 ### How many Vine reviews and non-Vine reviews were there?
 
 - There were 40565 total reviews,94 are paid and 40471 are unpaid.
+
 ![image](https://user-images.githubusercontent.com/85265816/135020611-218a659b-3e11-4786-97bf-a0cdeb0843fa.png)
 
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 - There were 48 total paid 5-star reviews and 15663 total unpaid 5-star reviews.
+
 ![image](https://user-images.githubusercontent.com/85265816/135020625-0aaa83e1-5ce7-48f2-a76d-50d8b50c588e.png)
 
 
@@ -45,6 +47,7 @@ By the end,use PySpark, Pandas, or SQL to determine if there is any bias toward 
 
 - 51.06% of the five_star reviews were vine(paid)
 - 38.70% of the five_star reviews were non-vine(unpaid)
+
 ![image](https://user-images.githubusercontent.com/85265816/135020649-7a8f67f3-6fd4-42b1-a0ba-dda0c5684e62.png)
 
 
